@@ -2,12 +2,12 @@
 Dice roller batch file for Windows
 
 ## Usage
-```bash
-$ roll 1 2 3
+<pre>
+$ <b>roll 1 2 3</b>
 1d2+3
 [2]
 5
-```
+</pre>
 
 ## Installation
 
